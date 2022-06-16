@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_manalelsayed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_manalelsayed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_manalelsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_manalelsayed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_manalelsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_manalelsayed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_manalelsayed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_manalelsayed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_manalelsayed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_manalelsayed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
